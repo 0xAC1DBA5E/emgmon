@@ -1,5 +1,5 @@
 
-# emg-monitor
+# emgmon
 
 ## What is it
 Small project to record and display EMG data using Arduino SHIELD-EKG-EMG
